@@ -1,12 +1,12 @@
 # C++11-Tiny-Compiler
 # 对于C++11的微型编译脚本(对于那些装不了GUIDE,以及其他编译器的Linux用户) 
-*解 决 问 题*
-如果使用`./c.sh`时提示权限不足,请写`sudo chmod +x c.sh`
+**解 决 问 题**  
+如果使用`./c.sh`时提示权限不足,请写`sudo chmod +x c.sh`  
 如果有运行时又问题(你的C++代码有问题不算),请用以下代码  
 `sudo apt-get upgrade`  
 `sudo apt-get install g++`  
   
-*用 法:*  
+**用 法:**  
 运行方式:在c.sh的位置打开终端,输入`./c.sh`
 路径可以填全部路径  
 也可以填从c.sh到目的位置(详见cd指令的用法)  
