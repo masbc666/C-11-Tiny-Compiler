@@ -2,7 +2,7 @@
 # 对于C++11的微型编译脚本(对于那些装不了GUIDE,以及其他编译器的Linux用户) 
 **解 决 问 题**  
 如果使用`./c.sh`时提示权限不足,请写`sudo chmod +x c.sh`  
-如果有运行时又问题(你的C++代码有问题不算),请用以下代码  
+如果有运行时有问题(你的C++代码有问题不算),请用以下代码  
 `sudo apt-get upgrade`  
 `sudo apt-get install g++`  
   
